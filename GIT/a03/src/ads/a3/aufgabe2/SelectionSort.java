@@ -1,0 +1,13 @@
+package ads.a3.aufgabe2;
+
+import ads.a3.SortingAlgorithm;
+
+public class SelectionSort extends SortingAlgorithm {
+
+	/**
+	 * Aufgabe 2a)
+	 */
+	@Override
+	public void sort(int[] f) {
+	}
+}
